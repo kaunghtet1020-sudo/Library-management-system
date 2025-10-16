@@ -14,7 +14,7 @@ This project provides RESTful APIs for managing books, members, borrowing and re
 
 ## Technologies Used
 - **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate
-- **Database:** MySQL / PostgreSQL
+- **Database:** MySQL 
 - **Security:** Spring Security (optional)
 - **Build Tool:** Maven
 
